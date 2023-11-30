@@ -1,0 +1,65 @@
+[
+    {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "texture": "wood.png",
+        "bt": "wood"
+    },
+    {
+        "x": 0,
+        "y": 1,
+        "z": 0,
+        "texture": "wood.png",
+        "bt": "wood"
+    },
+    {
+        "x": 0,
+        "y": 2,
+        "z": 0,
+        "texture": "wood.png",
+        "bt": "wood"
+    },
+    {
+        "x": 0,
+        "y": 3,
+        "z": 0,
+        "texture": "wood.png",
+        "bt": "wood"
+    },
+    {
+        "x": 0,
+        "y": 4,
+        "z": 0,
+        "texture": "leaf.png",
+        "bt": "leaf"
+    },
+    {
+        "x": 1,
+        "y": 3,
+        "z": 0,
+        "texture": "leaf.png",
+        "bt": "leaf"
+    },
+    {
+        "x": -1,
+        "y": 3,
+        "z": 0,
+        "texture": "leaf.png",
+        "bt": "leaf"
+    },
+    {
+        "x": 0,
+        "y": 3,
+        "z": 1,
+        "texture": "leaf.png",
+        "bt": "leaf"
+    },
+    {
+        "x": 0,
+        "y": 3,
+        "z": -1,
+        "texture": "leaf.png",
+        "bt": "leaf"
+    }
+]
